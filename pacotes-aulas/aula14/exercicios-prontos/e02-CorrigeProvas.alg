@@ -17,6 +17,7 @@ Procedimento CadastroGabarito()
 var
    c: Inteiro
 inicio
+   escreval("-------------------------------")
    EscrevaL("PASSO 1 - Cadastro de Gabarito ")
    EscrevaL("-------------------------------")
    Para c <- 1 ate 5 faca
